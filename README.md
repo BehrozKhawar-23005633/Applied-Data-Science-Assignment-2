@@ -2,6 +2,8 @@ COVID-19 Dataset Analysis
 
 This repository presents visualizations analyzing the global COVID-19 pandemic using data sourced from Kaggle. Here's a brief overview of the visualizations:
 
+DATA SET OVERVIEW::
+
 Line Plot: New Cases per Day
 Tracks daily new COVID-19 cases for the top five affected countries from January 2020 to 2022.
 
